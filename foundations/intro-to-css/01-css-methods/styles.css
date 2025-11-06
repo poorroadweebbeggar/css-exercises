@@ -1,0 +1,6 @@
+/* * `div`: a red background, white text, a font size of 32px, center aligned, and bold */
+div {
+    color: red;
+    background-color: white;
+    font-size: 32;
+}
