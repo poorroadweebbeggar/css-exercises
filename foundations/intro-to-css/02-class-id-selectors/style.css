@@ -5,3 +5,8 @@ p {
     font-family: Verdana, DejaVu Sans, sans-serif;
 
 }
+
+#two {
+    color: rgb(57, 57, 228);
+    font-size: 36px;
+}
