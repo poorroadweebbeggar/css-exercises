@@ -1,9 +1,14 @@
 /* Add CSS Styling */
 
-p {
+.one,
+.three {
     background-color: rgb(253, 107, 107);
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
 
+}
+
+.three {
+    font-size: 24px;
 }
 
 #two {
